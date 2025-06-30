@@ -7,8 +7,8 @@ A Full Stack (MERN) Developer who loves coding and developing beautiful & modern
 ### 🛠️ Skills & Tools:
 
 ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-111827?style=for-the-badge&logo=vercel&logoColor=white)

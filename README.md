@@ -4,8 +4,7 @@ A Full Stack (MERN) Developer who loves coding and developing beautiful & modern
 
 
 ### 🛠️ Skills & Tools:
-![JavaScript]([https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript](https://camo.githubusercontent.com/b05038c0cffbfaecbaa2200b75ba90e9b7456eaf5f658ae9c4c1ce32e263c21e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c74732c657870726573736a732c6e6573746a732c6e6f64656a732c6769742c6769746875622c646f636b65722c7673636f64652c706f73746d616e2c7675652c707269736d612c6c696e75782c706f7374677265732c676f2c62756e2c72656469732c267468656d653d6461726b))
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![JavaScript](https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-111827?style=for-the-badge&logo=vercel&logoColor=white)
